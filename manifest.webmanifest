@@ -1,0 +1,18 @@
+{
+  "id": "/app.html",
+  "name": "Rotinas HSE · Set Manutenções",
+  "short_name": "Rotinas HSE",
+  "description": "Plataforma de rotinas de Saúde, Segurança e Meio Ambiente da Set Manutenções Industriais.",
+  "lang": "pt-BR",
+  "start_url": "/app.html",
+  "scope": "/app",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#3E2A63",
+  "theme_color": "#3E2A63",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
